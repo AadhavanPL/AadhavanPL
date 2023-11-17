@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aadhavan</h1>
-<h3 align="center">I'm a CSE undergrad @NITC. Take a peek at my work ;)</h3>
-<br />
+<h1>Hey 👋, I'm Aadhavan</h1>
+<h3>I'm a Computer Sceince and Engineering undergrad @NITC. Take a peek at my work ;)</h3>
 
 - 🔭 I’m currently working on **eXpServer**
 
-- 📫 How to reach me **aadhavan@gmail.com**
+- 📫 How to reach me **aadhavanlenin@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
